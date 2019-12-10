@@ -1,4 +1,4 @@
-# NumberGenerator mit Delegate
+# NumberGenerator mit Event
 
 ## Lehrziele
 
